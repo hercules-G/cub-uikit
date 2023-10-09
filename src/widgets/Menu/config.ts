@@ -147,7 +147,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/cubdefi"
+        href: "https://t.me/herculesdefi"
       },
     ],
   },
