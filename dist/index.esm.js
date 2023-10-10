@@ -3356,7 +3356,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/financeleo",
+        href: "https://twitter.com/financehercules",
     },
 ];
 var MENU_HEIGHT = 64;
