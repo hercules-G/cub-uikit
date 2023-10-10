@@ -3349,7 +3349,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/herculesdefi"
+                href: "https://t.me/cubdefi"
             },
         ],
     },
