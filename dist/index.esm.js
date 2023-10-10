@@ -3361,14 +3361,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/cubdefi"
+                href: "https://t.me/herculesdefi"
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/financeleo",
+        href: "https://twitter.com/financehercules",
     },
 ];
 var MENU_HEIGHT = 64;
